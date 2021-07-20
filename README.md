@@ -66,6 +66,6 @@ Hacking Tools And Facebook Bot
 	
 	$ git clone https://github.com/r0zhakID/darkfbx
 	
-	$ cd Facebook
+	$ cd darkfbx
 	
 	$ ruby main.rb
